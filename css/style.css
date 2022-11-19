@@ -1,0 +1,19 @@
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.title{
+    text-align: center;
+    text-transform: uppercase;
+}
+.main-box{
+    display: flex;
+    background-color: green;
+}
+.box{
+    text-align: center;
+    width: 33.33%;
+    padding: 50px;
+    border: 2px solid yellow;
+    color: blue;
+}
